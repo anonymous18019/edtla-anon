@@ -4,7 +4,7 @@
 Code for our ARR submission on error-driven targeted LLM augmentation for code-mixed POS tagging.
 
 ## Dataset
-`dataFiles/` contains placeholder TSV files (no tokens, Twitter/X policy). Obtain the Hinglish POS corpus from [Singh et al., COLING 2018](https://aclanthology.org/C18-1271/) and place in `dataFiles/`. Training split: first 29,683 tokens; test: remaining 3,327 tokens.
+`dataFiles/` contains placeholder TSV files (no tokens, Twitter/X policy). Obtain the Hinglish POS corpus from [Singh et al., COLING 2018](https://aclanthology.org/C18-1271/) and place in `dataFiles/`. Training split: first 30,262 tokens; test: remaining 3,327 tokens.
 
 ## Reproduction
 1. Train baseline (seeds 42–51): `trainOriginalModel.py`
