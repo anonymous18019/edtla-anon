@@ -1,0 +1,359 @@
+Coffee	en	NOUN
+ki	hi	ADP
+smell	en	NOUN
+bahut	hi	ADV
+achi	hi	ADJ
+lagti	hi	VERB
+hai	hi	VERB
+
+tweet	en	NOUN
+likhne	hi	VERB
+ka	hi	ADP
+samay	en	NOUN
+nahi	hi	PART_NEG
+hai	hi	VERB
+
+Proposal	en	NOUN
+pass	en	VERB
+kar	hi	VERB
+do	hi	VERB
+
+Kya	hi	PRON_WH
+tum	hi	PRON
+ghar	hi	NOUN
+clean	en	NOUN
+kar	hi	VERB
+sakte	hi	VERB
+ho	hi	VERB
+?	rest	X
+
+school	en	NOUN
+ki	hi	ADP
+picnic	en	NOUN
+yaad	hi	NOUN
+hai	hi	VERB
+
+aaj	hi	ADV
+main	hi	PRON
+ghar	hi	NOUN
+saaf	en	VERB
+karunga	hi	VERB
+
+dinner	en	NOUN
+ke	hi	ADP
+baad	hi	NOUN
+ghar	hi	NOUN
+chalo	hi	VERB
+
+ghar	hi	NOUN
+ka	hi	ADP
+saman	hi	NOUN
+lekar	hi	VERB
+aao	hi	VERB
+
+kaam	en	NOUN
+karne	hi	VERB
+ka	hi	ADP
+mood	en	NOUN
+nahi	hi	PART_NEG
+
+coffee	en	NOUN
+piyo	hi	VERB
+aur	hi	CONJ
+relax	en	VERB
+
+Us	hi	PRON
+game	en	NOUN
+ka	hi	ADP
+result	en	NOUN
+jaldi	hi	ADV
+aana	hi	VERB
+chahiye	hi	VERB
+
+Yeh	hi	PRON
+gaadi	hi	NOUN
+ka	hi	ADP
+design	en	NOUN
+unique	en	ADJ
+hai	hi	VERB
+
+Chalo	en	VERB
+coffee	en	NOUN
+pee	hi	VERB
+le	hi	VERB
+aaj	hi	ADV
+
+Yeh	hi	PRON
+meeting	en	NOUN
+ka	hi	ADP
+agenda	en	NOUN
+clear	en	ADJ
+hai	hi	VERB
+
+file	en	NOUN
+delete	en	NOUN
+karni	hi	VERB
+padi	hi	VERB
+
+Aajkal	hi	ADV
+kheer	hi	NOUN
+banana	hi	VERB
+trend	en	NOUN
+me	hi	ADP
+hai	hi	VERB
+.	rest	X
+
+Mujhe	hi	PRON
+document	en	NOUN
+par	hi	ADP
+sign	en	NOUN
+karna	hi	VERB
+hai	hi	VERB
+
+game	en	NOUN
+khelna	hi	VERB
+acha	hi	ADJ
+lagta	hi	VERB
+
+kal	hi	NOUN
+ka	hi	ADP
+plan	en	NOUN
+bana	hi	VERB
+rahe	hi	VERB
+hain	hi	VERB
+
+Tumhara	hi	PRON
+favourite	en	ADJ
+subject	en	NOUN
+kya	hi	PRON_WH
+hai	hi	VERB
+
+dosto	hi	NOUN
+ke	hi	ADP
+sath	hi	ADP
+gupshup	en	NOUN
+chal	hi	VERB
+rahi	hi	VERB
+hai	hi	VERB
+
+Kya	hi	PRON_WH
+tumne	hi	PRON
+tweet	en	NOUN
+kiya	hi	VERB
+tha	hi	VERB
+
+Usne	hi	PRON
+presentation	en	NOUN
+prepare	en	VERB
+kiya	hi	VERB
+
+Yeh	hi	PRON
+program	en	NOUN
+ka	hi	ADP
+format	en	NOUN
+naya	hi	ADJ
+hai	hi	VERB
+
+Exam	en	NOUN
+ka	hi	ADP
+result	en	NOUN
+aaj	hi	ADV
+aayega	hi	VERB
+
+Main	hi	PRON
+exercise	en	NOUN
+kar	hi	VERB
+raha	hi	VERB
+hoon	hi	VERB
+ghar	hi	NOUN
+pe	hi	ADP
+
+meeting	en	NOUN
+ka	hi	ADP
+agenda	en	NOUN
+ready	hi	ADJ
+hai	hi	VERB
+
+Kya	hi	PRON_WH
+tum	hi	PRON
+mujhe	hi	PRON
+kuch	hi	ADJ
+suggestion	en	NOUN
+de	hi	VERB
+sakte	hi	VERB
+ho	hi	VERB
+
+plan	en	NOUN
+ki	hi	ADP
+kya	hi	PRON_WH
+hoga	hi	VERB
+
+food	en	NOUN
+order	en	NOUN
+karne	hi	VERB
+ka	hi	ADP
+mood	en	NOUN
+
+Sabko	hi	PRON
+invite	en	NOUN
+kar	hi	VERB
+rahe	hi	VERB
+hai	hi	VERB
+
+Usne	hi	PRON
+vacation	en	NOUN
+ka	hi	ADP
+maza	hi	NOUN
+liya	hi	VERB
+
+Plan	en	NOUN
+toh	hi	PART
+bahut	hi	ADV
+acha	hi	ADJ
+tha	hi	VERB
+
+Proof	en	NOUN
+ka	hi	ADP
+intezaar	hi	NOUN
+kar	hi	VERB
+raha	hi	VERB
+hoon	hi	VERB
+.	rest	X
+
+meeting	en	NOUN
+ka	hi	ADP
+time	en	NOUN
+fix	hi	ADJ
+
+Aaj	en	ADV
+gym	hi	NOUN
+karne	hi	VERB
+gaya	hi	VERB
+.	rest	X
+
+meeting	en	NOUN
+ka	hi	ADP
+time	en	NOUN
+fix	hi	VERB
+karna	hi	VERB
+hai	hi	VERB
+
+Yeh	hi	PRON
+kya	hi	PRON_WH
+baking	en	NOUN
+ka	hi	ADP
+plan	en	NOUN
+hai	hi	VERB
+
+Mujhe	hi	PRON
+kuch	hi	ADJ
+kaam	en	NOUN
+karne	hi	VERB
+ka	hi	ADP
+mood	en	NOUN
+nahi	hi	PART_NEG
+
+Kya	hi	PRON_WH
+tumhara	hi	PRON
+project	en	NOUN
+complete	en	VERB
+ho	hi	VERB
+gaya	hi	VERB
+
+aaj	hi	ADV
+ki	hi	ADP
+shopping	en	NOUN
+kharcha	hi	NOUN
+zyada	hi	ADV
+tha	hi	VERB
+
+exercise	en	NOUN
+routine	en	NOUN
+set	en	NOUN
+ho	hi	VERB
+gaya	hi	VERB
+
+exercise	en	NOUN
+routine	en	NOUN
+set	en	NOUN
+karna	hi	VERB
+hai	hi	VERB
+
+Tumhara	hi	PRON
+dost	hi	NOUN
+abhi	hi	ADV
+ghar	hi	NOUN
+pahucha	hi	VERB
+kya	hi	PRON_WH
+
+Kya	hi	PRON_WH
+tumne	hi	PRON
+aaj	hi	ADV
+book	en	NOUN
+padhi	hi	VERB
+hai	hi	VERB
+
+kaam	en	NOUN
+ka	hi	ADP
+pressure	en	NOUN
+zyada	hi	ADJ
+hai	hi	VERB
+
+Tumhara	hi	PRON
+project	en	NOUN
+ka	hi	ADP
+status	en	NOUN
+clear	en	ADJ
+hai	hi	VERB
+
+event	en	NOUN
+plan	hi	NOUN
+ho	hi	VERB
+gaya	hi	VERB
+
+tweet	en	NOUN
+kar	hi	VERB
+raha	hi	VERB
+hai	hi	VERB
+aaj	hi	ADV
+kal	hi	NOUN
+ki	hi	ADP
+baat	hi	NOUN
+hai	hi	VERB
+
+Tumhara	hi	PRON
+birthday	en	NOUN
+kab	hi	PRON_WH
+hai	hi	VERB
+?	rest	X
+
+meeting	en	NOUN
+ka	hi	ADP
+agenda	en	NOUN
+tayyar	hi	ADJ
+karo	hi	VERB
+
+meeting	en	NOUN
+mein	hi	ADP
+kaam	en	NOUN
+ho	hi	VERB
+gaya	hi	VERB
+
+file	en	NOUN
+ko	hi	ADP
+delete	en	NOUN
+karna	hi	VERB
+padega	hi	VERB
+
+bache	hi	NOUN
+ki	hi	ADP
+homework	en	NOUN
+karne	hi	VERB
+
+aaj	hi	ADV
+ke	hi	ADP
+match	en	NOUN
+ka	hi	ADP
+result	en	NOUN
+kya	hi	PRON_WH
+
